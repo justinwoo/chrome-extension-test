@@ -7,8 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "build": "",
-    "start": "pulp build && parcel index.html",
+    "start": "pulp build && parcel index.js",
     "postinstall": "psc-package update",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

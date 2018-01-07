@@ -8,5 +8,4 @@
 /.purs*
 /.psa*
 /.cache
-/dist/chrome-extension-test.js
-/dist/index.html
+/dist/*.js
