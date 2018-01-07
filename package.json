@@ -9,6 +9,7 @@
   "scripts": {
     "build": "",
     "start": "pulp build && parcel index.html",
+    "postinstall": "psc-package update",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
